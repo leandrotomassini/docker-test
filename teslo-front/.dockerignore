@@ -1,0 +1,19 @@
+# Archivos y directorios específicos de Next.js
+.next/
+out/
+node_modules/
+
+# Archivos y directorios generados durante la construcción
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Otros archivos y directorios innecesarios
+.git/
+.gitignore
+.dockerignore
+.docker/
+*.md
+*.markdown
+*.txt
